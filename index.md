@@ -1,6 +1,6 @@
 ---
 title: Overview
-nav_order: 1
+nav_order: 0
 ---
 
 ## E2E DevOps Reference Architecture
