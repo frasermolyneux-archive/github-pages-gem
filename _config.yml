@@ -102,7 +102,7 @@ back_to_top_text: "Back to top"
 
 # Aux links for the upper right navigation
 aux_links:
-  "Azure API Management Lab on GitHub":
+  "E2E DevOps Reference Architecture on GitHub":
     - "//github.com/samaea/e2e-devops-architecture"
 
 # Makes Aux links open in a new tab. Default is false
